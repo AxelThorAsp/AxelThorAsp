@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AxelThorAsp/AxelThorAsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on .NET Framework
+- 🌱 I’m currently learning SQL 😛 
+- 👯 I’m looking to collaborate on C# projects 😎
+- 🤔 I’m looking for help with React 🪐
+- 💬 Ask me about my eating disorder
+- 📫 How to reach me: come to my house 🤓
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Big coffee guy (Java) 🤣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Alt Text](https://media.tenor.com/ms9n5oYamMAAAAAC/microsoft-microsoft-logo.gif)
+
